@@ -1,0 +1,12 @@
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\bin\Debug\net5.0\SettlementBookingSystem.Application.deps.json
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\bin\Debug\net5.0\SettlementBookingSystem.Application.dll
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\bin\Debug\net5.0\SettlementBookingSystem.Application.pdb
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\obj\Debug\net5.0\SettlementBookingSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\obj\Debug\net5.0\SettlementBookingSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\obj\Debug\net5.0\SettlementBookingSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\obj\Debug\net5.0\SettlementBookingSystem.Application.AssemblyInfo.cs
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\obj\Debug\net5.0\SettlementBookingSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\obj\Debug\net5.0\SettlementBookingSystem.Application.dll
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\obj\Debug\net5.0\refint\SettlementBookingSystem.Application.dll
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\obj\Debug\net5.0\SettlementBookingSystem.Application.pdb
+C:\Users\Family\Downloads\IFTG_Coding Assignment\SettlementBookingSystem.Application\obj\Debug\net5.0\ref\SettlementBookingSystem.Application.dll
