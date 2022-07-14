@@ -2,14 +2,11 @@
 
 ## Versions
 
-1. Basic Implementation
+1. Implemented Function
 
-`BasicBookingController` provides an implementation within the controller that is complete but poorly written.
-
-2. Mediator Implementation
-
-`MediatorBookingController` provides an implementation using the mediator pattern and the data is stored in an [Interval Tree](https://en.wikipedia.org/wiki/Interval_tree) for O(log m + n) access.
-This implementatrion also provides unit tests with a mocked repository.
+Validate booking time range.
+Throw Exception when conflict booking time.
+Add rate limit to API
 
 ## How to execute
 
@@ -17,22 +14,10 @@ This implementatrion also provides unit tests with a mocked repository.
 
 ```
 curl --request POST \
-  --url https://localhost:44355/BasicBooking \
+  --url https://localhost:5001/booking \
   --header 'Content-Type: application/json' \
   --data '{
 	"bookingTime": "09:00",
 	"name": "Keith"
-}'
-```
-
-2. Mediator
-
-```
-curl --request POST \
-  --url https://localhost:44355/MediatorBooking \
-  --header 'Content-Type: application/json' \
-  --data '{
-	"bookingTime": "09:30",
-	"name": "John"
 }'
 ```
